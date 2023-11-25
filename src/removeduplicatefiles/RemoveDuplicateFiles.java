@@ -30,10 +30,10 @@ public class RemoveDuplicateFiles {
 
         deleteDuplicates(dir);
 
-        // Path file1 = Paths.get("D:\\Documents\\ITS\\SEMESTER1\\PBO\\TUGAS\\ujicoba\\JP_5_2_sg.pdf");
-        // Path file2 = Paths.get("D:\\Documents\\ITS\\SEMESTER1\\PBO\\TUGAS\\ujicoba\\JP_5_2_sg - Copy.pdf");
-        // String path1 = "D:\\Documents\\ITS\\SEMESTER1\\PBO\\TUGAS\\ujicoba\\JP_5_2_sg.pdf";
-        // String path2 = "D:\\Documents\\ITS\\SEMESTER1\\PBO\\TUGAS\\ujicoba\\JP_5_2_sg - Copy.pdf";
+        // Path file1 = Paths.get("src\\ujicoba\\JP_5_2_sg.pdf");
+        // Path file2 = Paths.get("src\\ujicoba\\JP_5_2_sg - Copy.pdf");
+        // String path1 = "src\\ujicoba\\JP_5_2_sg.pdf";
+        // String path2 = "src\\ujicoba\\JP_5_2_sg - Copy.pdf";
         // System.out.println(checkDuplicates(path1, path2));
     }
 
